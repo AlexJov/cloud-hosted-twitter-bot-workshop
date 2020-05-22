@@ -3,4 +3,4 @@ applications:
       random-route: true
       memory: 128M
       env:
-        GO_INSTALL_PACKAGE_SPEC: github.com/AlexJov/cloud-hosted-twitter-bot-workshop.git/cmd
+        GO_INSTALL_PACKAGE_SPEC: ./cloud-hosted-twitter-bot-workshop/cmd
